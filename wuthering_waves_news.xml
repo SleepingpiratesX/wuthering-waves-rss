@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+  <channel>
+    <title>Wuthering Waves News</title>
+    <link>https://wutheringwaves.kurogames.com/news</link>
+    <description>Latest news and updates about Wuthering Waves</description>
+    <language>en-us</language>
+    <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
+    <lastBuildDate>Sun, 07 Jul 2024 00:00:00 GMT</lastBuildDate>
+    <ttl>1800</ttl>
+
+    <item>
+      <title>New Character Revealed</title>
+      <link>https://wutheringwaves.kurogames.com/news/new-character-revealed</link>
+      <description>Wuthering Waves introduces a new character with unique abilities and storyline.</description>
+      <pubDate>Sat, 06 Jul 2024 00:00:00 GMT</pubDate>
+      <guid>https://wutheringwaves.kurogames.com/news/new-character-revealed</guid>
+    </item>
+
+    <item>
+      <title>Upcoming Closed Beta Test</title>
+      <link>https://wutheringwaves.kurogames.com/news/upcoming-closed-beta-test</link>
+      <description>Details about the upcoming closed beta test for Wuthering Waves.</description>
+      <pubDate>Fri, 05 Jul 2024 00:00:00 GMT</pubDate>
+      <guid>https://wutheringwaves.kurogames.com/news/upcoming-closed-beta-test</guid>
+    </item>
+
+    <item>
+      <title>Development Update: July 2024</title>
+      <link>https://wutheringwaves.kurogames.com/news/development-update-july-2024</link>
+      <description>Monthly update on the development progress of Wuthering Waves.</description>
+      <pubDate>Thu, 04 Jul 2024 00:00:00 GMT</pubDate>
+      <guid>https://wutheringwaves.kurogames.com/news/development-update-july-2024</guid>
+    </item>
+
+  </channel>
+</rss>
