@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<rss version="2.0">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Wuthering Waves News</title>
     <link>https://wutheringwaves.kurogames.com/news</link>
@@ -8,6 +8,7 @@
     <pubDate>Sun, 07 Jul 2024 00:00:00 GMT</pubDate>
     <lastBuildDate>Sun, 07 Jul 2024 00:00:00 GMT</lastBuildDate>
     <ttl>1800</ttl>
+    <atom:link href="https://sleepingpiratesx.github.io/wuthering-waves-rss/wuthering_waves_news.xml" rel="self" type="application/rss+xml" />
 
     <item>
       <title>New Character Revealed</title>
